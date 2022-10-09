@@ -1,0 +1,18 @@
+<movies>
+	<movie id="1" name="Avatar" year="2009">
+		<genres>
+			<genre id="1" name="Fantasy" />
+			<genre id="2" name="Sci-fi" />
+			<genre id="3" name="Adventure" />
+		</genres>
+		<country id="1" name="United States"></country>
+	</movie>
+	<movie id="2" name="Pirates of the Caribbean: The Curse of the Black Pearl" year="2003">
+		<genres>
+			<genre id="4" name="Action" />
+			<genre id="1" name="Fantasy" />
+			<genre id="5" name="Comedy" />
+		</genres>
+		<country id="1" name="United States"></country>
+	</movie>
+</movies>
